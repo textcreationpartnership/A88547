@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Mayors fare-vvell, from the office of Mayoraltie which was sent to him in a letter, by one of those who are usually (but unjustly) called Anabaptists: wherein he is taxed not only for breach of promise, in not endeavouring to procure of the Parliament one of the City temples, for a publique disputation between the Anabaptists, and the Presbyterians; but likewise for presenting an unjust remonstrance to the Parliament, for procuring licence and authority, to suppresse both Anabaptists, separatists, and all such as have good grounds and principles for their practice.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88547</idno><idno type="EEBO-CITATION">99861669</idno>
+  <idno type="VID">113810</idno>
+  <idno type="EEBO-PROQUEST">2240952702</idno>
+  
+            <idno type="STC">Wing L3050</idno>
+            <idno type="STC">Thomason E355_6</idno>
+            <idno type="STC">ESTC R201108</idno>
+            <idno type="PROQUEST">99861669</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861669e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113810)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E355[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Mayors fare-vvell, from the office of Mayoraltie which was sent to him in a letter, by one of those who are usually (but unjustly) called Anabaptists: wherein he is taxed not only for breach of promise, in not endeavouring to procure of the Parliament one of the City temples, for a publique disputation between the Anabaptists, and the Presbyterians; but likewise for presenting an unjust remonstrance to the Parliament, for procuring licence and authority, to suppresse both Anabaptists, separatists, and all such as have good grounds and principles for their practice.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The Lord Mayor = Sir Thomas Adams.</note>
+                  <note>Annotation on Thomason copy: "London 23 7ber [i.e. September] 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Adams, Thomas, --  Sir, 1586-1668.</term>
+               <term type="topical_term">Anabaptists --  England --  Early works to 1800.</term>
+               <term type="topical_term">Christian sects --  England --  Early works to 1800.</term>
+               <term type="topical_term">Separatists --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113810:1"/>
+            <head>
+               <hi>THE LORD MAYORS FARE-WELL, from his Office of Mayoraltie. Which was sent to him in a Letter, by one of those who are usually (but unjustly) called Anabaptists:</hi> Wherein he is taxed not only for breach of promise, in not endevouring to pro<g ref="char:EOLhyphen"/>cure of the Parliament one of the City Temples, for a publique disputation between the Anabaptists, and the Presbyterians; But likewise for presen<g ref="char:EOLhyphen"/>ting an unjust <hi>Remonstrance</hi> to the Parliament, for procuring Li<g ref="char:EOLhyphen"/>cence and Authority, to suppresse both Anabaptists, Separatists, and all such as have good grounds and principles for their practice.</head>
+            <opener>
+               <salute>Right Honourable.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which makes men truly honourable before God, is their acquaintance with him, and in<g ref="char:EOLhyphen"/>terest in him, which is their life and glory; the fruits whereof whensoever they are re<g ref="char:EOLhyphen"/>vealed by his blessed Spirit to any soule, doe ap<g ref="char:EOLhyphen"/>peare amongst men by their faithfull words and just deeds to each other and that in al the particu<g ref="char:EOLhyphen"/>lar of duties love tending to mercy &amp; truth; especially in performing of those things wherein they are most justly and solemnely engaged before God and the world, although as King <hi>David</hi> saith, <hi>they should loose thereby,</hi> or suffer in so doing.</p>
+            <p>How it fareth with Your Lord-ship in the discharge of the first of these duties, I leave to him that knoweth all things, and will bring every dark thing to light, and disclose the secrets of all hearts at the appearing of Iesus Christ; who judgeth not by outward appearance, but in righteousnesse and without respect of persons.</p>
+            <p>That which occasioneth me to write unto Your Honour, is in re<g ref="char:EOLhyphen"/>lation to a promise which you made about a moneth after you were admitted to your Office of Majoralty over this famous City, upon a
+<pb n="2" facs="tcp:113810:2"/> meeting appointed between Mr. <hi>Calamy,</hi> Mr. <hi>Porter,</hi> and Mr. <hi>Cran<g ref="char:EOLhyphen"/>ford</hi> of the one part, and Mr. <hi>Cox,</hi> Mr. <hi>Knowles</hi> and Mr. <hi>Kiffen</hi> of the other, at Mr. <hi>Mascalls</hi> house in the old <hi>Iury,</hi> concerning a question, wherein many hundreds both in the City and Country doe require satisfaction.</p>
+            <p>Namely, whether the children of believing Parents ought to be Baptized or no? and the day of meeting being come; the house was so thronged by the multitude there assembled, that the Desputants could not enter the house, which occasion<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the disappointment of the happy issue expected by that meeting, which tended not only to the great griefe of many who are tender in conscience, and doe still re<g ref="char:EOLhyphen"/>maine doubtfull and scru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulous in those things, and hoped then to have received some satisfaction; but likewise to the great discontent of the disputants them selves, being so willing, resolute and prepared on both sides.</p>
+            <p>Whereupon they went aside, and consulted what course to take in that case, and at last, joyntly concluded to addresse themselves to Your Lord ship, for leave to meet in some pub<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>que Temple of the City; and therefore requested Mr. <hi>Mascall</hi> and M. <hi>Dixon,</hi> two <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om<g ref="char:EOLhyphen"/>mon Counsel-men to propound the same to Your Honour, who with all freenes and readinesse, did declare themselves willing to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gers in this so needfull a businesse; so they found Your Lord ship no lesse free and ready to grant their request.</p>
+            <p>So that an answer was returned to the Disputants by them to this effect, that Your Lord ship was very free and forward to the matter propounded, and therefore left it to the Disputants to agree both upon the time and place, when and where to meet and debate that controversie.</p>
+            <p>Whereupon the Disputants immediatly agreed to meet at Mr. <hi>Ca<g ref="char:EOLhyphen"/>lamies</hi> house to conferre about the manner <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> order of that dispute, that so it might be managed in a loving pea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>able and christian way.</p>
+            <p>And it was concluded by mutuall consent of both sides, that the time of meeting should have been the third o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Decem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> last past, and the place, that high place of <hi>A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erman-bury,</hi> which appointment (being known in the City and divers p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aces of the Kingdome) gave forth great hope of satisfactoin to many, that by that daies wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, truth would break forth, and darknesse vanish, like c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uds before the Su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and to the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me end there cam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many people 10. 20. 30. &amp; 40. miles, esteeming all their labou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as nothing, so they might returne with any measure of satisfaction and peace of conscience.</p>
+            <pb n="3" facs="tcp:113810:2"/>
+            <p>But it pleased Your Lord-ship, the day before that appointed time of meeting, to Publish in print on the posts of the City, that it was Your Lord-ships pleasure, to adj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urne the said meeting or disputa<g ref="char:EOLhyphen"/>tion, untill a more convenient time, of the substance whereof, I here present a copy, to Your Honours remembrance, so far as my memo<g ref="char:EOLhyphen"/>ry serves me; which is,</p>
+            <p>That Your Lord ship thought fit upon serious consideration, for prevention of the inconveniences that might happen thereby, to for<g ref="char:EOLhyphen"/>bid the same meeting or disputation, upon that day or any other time in a publique way, before Your Lord-ship should receive the pleasures of the Honourable Houses of Parliament touching the same, which with all conveniencie your Lordship would endevour to know, lest otherwise there might be hazard of the disturbance of the publique peace.</p>
+            <p>Upon the hearing wherof, many thousands were grieved and dis<g ref="char:EOLhyphen"/>contented in their spirits to be so disappointed of their expectation, yet not altogether frustrated of their hope, but that a convenient sea<g ref="char:EOLhyphen"/>son or fit occasion would be er-long for a publique appointment of that meeting, in regard Your Lord-ship declares in that published paper, that the deferring thereof, was but till Your Lord-ship knew the pleasure of the Honourable Houses of Parliament, which with all conveniencie, Your Lordship would endevour to know.</p>
+            <p>Which words of your Lord-ship gave great grounds of hope, that the meeting should be speedily thereafter, in regard that most men believed that the Houses of Parliament, whensoever they should be moved by Your Lord-ship, would freely grant that our request, it be<g ref="char:EOLhyphen"/>ing so equall and reasonable, and that it conduced so much to the satis<g ref="char:EOLhyphen"/>faction of many poor soules, who stood in so great need of such solid resolution, as it might have pleased God to afford them, by meanes of that publique and free disputation.</p>
+            <p>But they still attending, and languishing dayes and weekes and mo<g ref="char:EOLhyphen"/>neths, when this motion should have been made by Your Lord-ship, untill at last there was a rumour of a <hi>Remonstrance,</hi> that was drawn up by Your Lord-ship and the Common counsells approbation, to be presented to the Honourable Houses of Parliament, for the suppres<g ref="char:EOLhyphen"/>sing of all such opinions and practices, as were not of a presbyterian moold.</p>
+            <p>Which newes were no lesse strange then grievous to me and ma<g ref="char:EOLhyphen"/>ny
+<pb n="4" facs="tcp:113810:3"/> thousands of others, that Your Lord-ship who (as we thought) aymed at goodnesse, and professed some love to the truth, and car<g ref="char:EOLhyphen"/>ried Your selfe as a friend to many, should so suddenly and causelesly turn our enemy, and that by having a speciall hand in the drawing up, subscribing and presenting of such an unjust and uncharitable <hi>Remon<g ref="char:EOLhyphen"/>strance,</hi> as any wise to desire the suppressing either of the truth, or the professors thereof in regard of your publique engagement, to addresse Your selfe to the High Court of Parliament, for appointing a place where to have heard what such people could have said from the word of God for themselves, and the truth of their way and practice.</p>
+            <p>Truly, the eyes of many thousands lookt upon Your Honour, as one who would have more regarded Your Honour, and made more conscience of Your promise, being our cheif City Captaine, then in stead of Your duty performance, thus so unjustly to turn the Can<g ref="char:EOLhyphen"/>nons against Your friends.</p>
+            <p>But now it doth evidently appeare, that Your Lop. and those Cler<g ref="char:EOLhyphen"/>gy men that have engaged themselves to debate that controversie do suspect both the truth of their cause, and their owne, inabillity to de<g ref="char:EOLhyphen"/>fend it, in they thus cowardly keep themselves within doores, and dare not sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w their faces against us in open field, where we are to contend for the maintenance of the faith, which was once given to the Saints, chiefly when we are urged by those who seek their portion in this life, as <hi>Paul</hi> was forced to defend both his preaching and pro<g ref="char:EOLhyphen"/>fession against those philosophers and false apostles, that did creep in, in his absence, who therefore doe still procure the power of Magistracy, not only to supply all defects of them and their cause, but to suppresse both the truth and the Professors thereof, as doth clearty appeare by their unjust and uncharitable City-<hi>Remonstrance,</hi> presen<g ref="char:EOLhyphen"/>ted to both Houses on the 26. of <hi>May</hi> last.</p>
+            <p>For I find in their petition<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry part thereof, these words, <hi>That all Anabaptists, Brownists, Schismatiques, and all such Sectaries as conforme not to the publique discipline established, or to be established by Parliament, may be fully declared against, and some effectuall course setled for proceeding against such persons.</hi>
+            </p>
+            <p>Now my Lord, how conscionable, just or reasonable, this kind of dealing and Proceeding against those that never offended You, nor the State (but have been as ready and free to adventure both their lives and estates, in defence and for the safety of the Kingdome and
+<pb n="5" facs="tcp:113810:3"/> Parliament according to their Power, as Your selfe and fellow <hi>Re<g ref="char:EOLhyphen"/>monstrants</hi> or any others whosoever) I even referre to God and the world, yea to Your owne conscience to judge.</p>
+            <p>For if you will search the Scriptures with an impartiall eye and faithfull resolution, and not like <hi>Pilate</hi> to aske what truth is, and then immediatly to turn Your back both upon the truth, and the God of truth; You will find that the very ignorant Heathens and greatest persecutors of the truth that ever were, since the clea e sun shine dayes of Christs glorious Gospell, never judged it, but a thing both equall and just, to heare men whether just or unjust befo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e they con<g ref="char:EOLhyphen"/>demne them, though they never made (so farre as wee can read) any promise so to doe, as Your Lord-ship promised to those persons against whom you wou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d have such a speedy course taken.</p>
+            <p>Would Your Lord-ship and your fellow Remonstrants be content, if wee should so endevour to stir up, or Petition the Parliament so a<g ref="char:EOLhyphen"/>gainst you, to render you the like measure? Is this the performance of your Lops. promise, to addresse your selfe to the House for obtai<g ref="char:EOLhyphen"/>ning of free disputation? Surely my Lord, if either your trusty friend Mr. <hi>Edwards,</hi> or your valiant Captain of the Presbyterians, Doctor <hi>Bastwick,</hi> had any such blot against us, whom you are pleased to call Sectaries, doubtlesse there would be great volumnes of a hundred sheets a peece, blazed throughout the Kingdome, to vilifie and utter<g ref="char:EOLhyphen"/>ly disgrace us, as either your breach of promise or unjust Re<g ref="char:EOLhyphen"/>monstrance.</p>
+            <p>My Lord, You cannot but remember, that in the letter sent to you and the Common counsell from the Assembly of <hi>Scotland,</hi> You are stiled one of the builders of Sion; but whether Gods Sion, or their Synagogue, seemeth to be a question to some: But my Lord that I may speak plainly, its out of all question, that the word of God is and should be the undoubted rule both of your and our practice: For it tells us, that none are accepted to dwell in Sion, but he that speakes the very truth from his hears, and promiseth and changeth not, <hi>Psalme</hi> 15.</p>
+            <p>My Lord, you did promise faire, and seemed both to begin and run well in the way of truth, but what did hinder either your per<g ref="char:EOLhyphen"/>formance of the one, or obedience to the other? I know nothing, unlesse you be either tyed by Your solleme Covenant not to per<g ref="char:EOLhyphen"/>forme that your solemne engagement, or that you are afraid of per<g ref="char:EOLhyphen"/>secution,
+<pb n="6" facs="tcp:113810:4"/> if you should live godly in Christ Jesus, or sinistruslie infor<g ref="char:EOLunhyphen"/>med by the diviners (whom your labours of this kind do most speeci<g ref="char:EOLhyphen"/>ally concerne) that this your solemn promise, is either no promise, be<g ref="char:EOLhyphen"/>cause we are heretiques in your and their account, or if it be, that they have yet reserved so much popish power unreformed or taken away (like Cheapside or Charing-crosse) as to give your Lord-ship a suspension for your not performance.</p>
+            <p>But my Lord, remember and consider this, that the righteous judge of all the earth will doe right, and is no respecter of persons, but will plead the cause of the poore against the mighty, and defend his own against their enemies.</p>
+            <p>And seeing Your Lord-ship hath proceeded so far, as to outrun your engagement, it is high time for you now to stand, and draw your breath, and before either you render up the Office of your Mayoraltie, or the accounts of your mortality, or that there be any further prosecution of your <hi>Remonstrance,</hi> for suppressing the meeke and quiet people of the land, yea or further encouragement of the profane multitude, to wax worse in their wicked waies, that yet you would be pleased according to your promise, to addresse your selfe to the House, and neglect no more time, for obtaining a free disputa<g ref="char:EOLhyphen"/>tion, between us and your Presbyterian Clergy, for other wise, by your utter negligence in this your bound duty, that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rknesse in you which seemes by your insinuation and smooth carriage, to be light, at your entrance into this your Office, will not only appear to be darknesse indeed, but likewise the snuffe of that your seeming light, will give a noysome savour unto all that are sensible to smell it, at your surrendring of that charge, which yet you enjoy upon trust.</p>
+            <p>What good may come by this so equitable and needfull meanes of publique and free disputation, your Lord-ship knowes not, but this wee know, that good meanes doe still tend to good ends: for possibly if any be in errour▪ it may please God so to blesse the meanes of Chri<g ref="char:EOLhyphen"/>stian conference in a peaceable and loving way, that they may be re<g ref="char:EOLhyphen"/>duced to the truth, and how profitable such a happy change (out of corrupt nature into grace) as the Apostle <hi>James</hi> tells you, chap. 5.19.20. in these words, <hi>Brethen, if any of you have erred from the truth, and some man bath converted him, let him know that he which converteth a sin<g ref="char:EOLhyphen"/>ner from going astray out of the way, shall save a soule from death, and hide a multitude of sines.</hi>
+            </p>
+            <pb n="7" facs="tcp:113810:4"/>
+            <p>Hence it is to be observed, that the Apostle declares, that the effectuall meanes of conversion from any erronious way, is (not the using of the coercive temporall sword, to their destruction, but of) the convincing spirituall word to their salvation.</p>
+            <p>If that which your Lop. doth thus persecute, as heresie or errour be found, truth as the Apostle <hi>Paul</hi> by that which the world called here<g ref="char:EOLhyphen"/>sie, did worship the God of his fathers, and so if you be convined of your errour in so doing, will it not stay your further proceedings, and move you to say, I have done wickedly, henceforth (through Gods grace) I will doe fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no more; would not this be a happy thing, yea and prove more honourable profitable and delightfull to you▪ then all deceivable honours, perishing profits, and deceitfull pleasures, that you can possibly enjoy in this world▪</p>
+            <p>Wherefore, I beseech Your Lord-ship, that you would seriously weigh and consider, what is here presented to you, from one who can approve his heart before God that he hath no other end in so do<g ref="char:EOLhyphen"/>ing, but publishing of the truth, the clearing of the innocent, and the recovering of your Lord-ship, if God see it good: for I beseech you remember, that you must eat long, lay down your tabernacle of clay (as well as that great charge, for which you enjoy your worldly ho<g ref="char:EOLhyphen"/>nour) and appear naked in the presence of him who is judge of quick and dead: And likewise consider how any man can dye with any hope of comfort, who liveth wilfully in any known sin.</p>
+            <p>For certain it is, that if God give you not repentance, it will be said of you, as it was of that wicked King, 2: <hi>Chro.</hi> 28.21.22.23. in these words, <hi>For Ahaz took a portion out of the house of the Lord, and out of the Kings house, and out of the princes, and gave to the King of Ashur: Yet it helped him not: And in the time of his tribulation, did he yet trespasse more against the Lord</hi> (this is King Ahaz) <hi>For he sacrificed unto the gods of Damascus, which plauged him, and he said because the gods of the Kings of Aram helped them, I will sacrifice unto them, and they will help me:</hi> yet they were his ruine and all <hi>Israells.</hi>
+            </p>
+            <p>So will the Saints in succeeding ages say of you, who have laboured to spoyle the glory and beauty of Gods House, by Remonstrating or declaring unjust and grievous things to the Parliament, both against the truth and the professors thereof, and that in a time of <hi>Englands</hi> tribulation and threatned desolation; <hi>This is that Lord Ma<g ref="char:EOLhyphen"/>jor of</hi> London <hi>Thomas Adams</hi> by name &amp;c.</p>
+            <pb n="8" facs="tcp:113810:5"/>
+            <p>I shall leave the perusall of the premisses to your Honour, and to all those into whose hands the same shall come, and both you and them into his blessed hands, who at the first, seperated light from darknesse, as he all waies ordained the precious to be separated from the vile, and will at last, separate the sheep from the goats, the one at his right hand, and the other at his left; So resteth one from writing, but not from being.</p>
+            <closer>
+               <dateline>London <date>this 20. of September 1646.</date>
+               </dateline>
+               <signed>Your Lord-ships servant in all duties of love; whose name you shall know, and face (God willing) you shall see, if you will yet performe your promised meeting, in a faire publique, loving and free way of appointed disputation.</signed>
+            </closer>
+            <postscript>
+               <p>To the right Honourable <hi>Thomas Adams</hi> Lord Mayor of <hi>London.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
